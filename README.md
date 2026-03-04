@@ -52,8 +52,8 @@ The data used in this project is publicly available from the UK Department for T
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ash54uk/MSIN0097-Road-Safety.git
-cd MSIN0097-Road-Safety
+git clone https://github.com/ash54uk/Predictive-Analytics-MSIN0097.git
+cd Predictive-Analytics-MSIN0097
 ```
 
 ### 2. Create a virtual environment (recommended)
