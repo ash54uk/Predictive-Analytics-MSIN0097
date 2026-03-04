@@ -52,7 +52,7 @@ The data used in this project is publicly available from the UK Department for T
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/MSIN0097-Road-Safety.git
+git clone https://github.com/ash54uk/MSIN0097-Road-Safety.git
 cd MSIN0097-Road-Safety
 ```
 
