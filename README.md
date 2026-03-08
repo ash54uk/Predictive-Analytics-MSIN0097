@@ -43,8 +43,6 @@ The data used in this project is publicly available from the UK Department for T
    - `dft-road-casualty-statistics-road-safety-open-dataset-data-guide-2024.xlsx`
 3. Place all three files in a folder and update the `BASE_PATH` and `DATA_PATH` variables at the top of Step 2 in the notebook to point to your local directory.
 
-**Licence:** Open Government Licence v3.0
-
 ---
 
 ## Setup Instructions
